@@ -1,0 +1,6 @@
+version: '1'
+
+services:
+  man:
+    build: .
+    image: rmclean/python3-opencv:v1
